@@ -1,0 +1,4 @@
+com\DINESH\CDNService\services\serviceimplements\CommonServiceImplement.class
+com\DINESH\CDNService\services\CommonService.class
+com\DINESH\CDNService\CdnServiceApplication.class
+com\DINESH\CDNService\controllers\CommonController.class
